@@ -53,12 +53,51 @@ span {
   font: white;
   margin: 100px;
 }
-.section2 {
-    width: 100%;
-    height: 500px;
-    background-color:#E1EBE6;
-    background-clip: content-box;
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+.segment2 {
+  width: 100%;
+  height: 500px;
+  background-color: #f4f7f5;
+  background-clip: content-box;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.quality-burgers {
+  height: 70%;
+  margin-top: 10%;
+  width: 25%;
+  border-radius: 15px;
+  border: solid black 1px;
+  margin-right: 20px;
+  padding: 60px;
+}
+.fast-delivery {
+  height: 80%;
+  width: 30%;
+  border-radius: 15px;
+  border: solid black 1px;
+  padding: 60px;
+}
+.delicious-meals {
+  height: 70%;
+  width: 25%;
+  border-radius: 15px;
+  border: solid black 1px;
+  margin-left: 20px;
+  padding: 60px;
+}
+.show {
+  font-size: 20px;
+  font-family: "Poppins", Verdana, Geneva, Tahoma, sans-serif;
+  padding: 2px;
+  color: maroon;
+}
+.content {
+  font-size: 15px;
+  font-family: "Poppins", Verdana, Geneva, Tahoma, sans-serif;
+}
+.segment3 {
+  text-align: center;
+  padding: 20px;
+}
