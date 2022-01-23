@@ -2,15 +2,14 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  font-family: "poppins", sans-serif;
 }
 .main-container {
-  width: 100%;
   position: relative;
 }
 .logo {
-  width: 100%;
   display: flex;
-  justify-content: space-around;
+  align-content: left;
 }
 .logo h3 {
   font-size: 50px;
@@ -31,4 +30,30 @@ span {
 }
 .flex-container li:hover {
   border-bottom: 5px solid orange;
+}
+.narration {
+  float: left;
+  font-size: 30px;
+  margin-right: 6%;
+  margin-left: 5%;
+  padding-top: 200px;
+}
+.image {
+  position: absolute;
+  left: 550px;
+  top: 150px;
+  height: auto;
+  width: auto;
+  width: 200px;
+  height: 300px;
+}
+.order {
+  background: #f6b400;
+  font-size: 20px;
+  padding: 16px 30px;
+  border: none;
+  border-radius: 30px;
+  border-bottom-right-radius: 0;
+  font: white;
+  margin: 100px;
 }
