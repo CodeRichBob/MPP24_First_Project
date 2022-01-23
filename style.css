@@ -4,6 +4,14 @@
   margin: 0;
   font-family: "poppins", sans-serif;
 }
+.shape {
+  position: absolute;
+  right: 0;
+  width: 50%;
+  height: 100%;
+  clip-path: polygon(11% 0, 100% 0%, 100% 100%, 0% 100%);
+  background-color: #f6b400;
+}
 .main-container {
   position: relative;
 }
