@@ -140,3 +140,31 @@ span {
   font-size: 50px;
   margin-top: 15%;
 }
+.pic {
+  margin-left: 30%;
+}
+.app {
+  display: flex;
+
+  background-color: rgb(254, 184, 23);
+  padding-bottom: 10%;
+}
+.box3 > p {
+  font-size: 40px;
+  padding-left: 20%;
+  padding-top: 30%;
+  font-weight: bold;
+}
+.store {
+  margin-top: 10%;
+  display: flex;
+  color: rgb(254, 184, 23);
+  padding-left: 20%;
+}
+.download {
+  margin-right: 8%;
+}
+.phones {
+  margin-left: 30%;
+  margin-top: 10%;
+}
