@@ -108,6 +108,7 @@ span {
   border-radius: 20px;
   padding-top: 20px;
   width: 30%;
+  height: 500px;
 }
 .burger1 h2 {
   text-align: center;
@@ -119,4 +120,23 @@ span {
 .items {
   display: flex;
   justify-content: center;
+}
+.icon {
+  display: flex;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+.explosion {
+  display: flex;
+  background-color: rgb(240, 247, 240);
+  height: 550px;
+  margin-top: 5%;
+}
+.double {
+  margin-left: 20%;
+}
+.double h4 {
+  font-size: 50px;
+  margin-top: 15%;
 }
