@@ -39,13 +39,9 @@ span {
   padding-top: 200px;
 }
 .image {
-  position: absolute;
-  left: 550px;
-  top: 150px;
-  height: auto;
-  width: auto;
-  width: 200px;
   height: 300px;
+  margin-left: 50px;
+  align-content: right;
 }
 .order {
   background: #f6b400;
@@ -57,3 +53,12 @@ span {
   font: white;
   margin: 100px;
 }
+.section2 {
+    width: 100%;
+    height: 500px;
+    background-color:#E1EBE6;
+    background-clip: content-box;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
