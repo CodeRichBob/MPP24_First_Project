@@ -100,4 +100,23 @@ span {
 .segment3 {
   text-align: center;
   padding: 20px;
+  margin-top: 8%;
+}
+.burger1 {
+  border: solid gray;
+  margin: 20px;
+  border-radius: 20px;
+  padding-top: 20px;
+  width: 30%;
+}
+.burger1 h2 {
+  text-align: center;
+  color: maroon;
+}
+.burger1 p {
+  text-align: center;
+}
+.items {
+  display: flex;
+  justify-content: center;
 }
