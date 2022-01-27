@@ -235,4 +235,5 @@ footer {
 .info ul li {
   list-style: none;
   padding: 10px;
+  text-decoration: none;
 }
