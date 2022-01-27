@@ -190,20 +190,22 @@ span {
   padding-bottom: 3%;
 }
 .logos {
-  flex: 1;
+  margin-left: 1%;
 }
 .info {
   flex: 1;
 }
 .subscribe {
   flex: 1;
+  margin-left: 5%;
 }
 .Subscribe h5 {
   font-size: 20px;
 }
 .btn {
   background-color: orange;
-  padding: 4%;
+  padding: 5px;
+  border-radius: 10%;
 }
 footer {
   display: flex;
@@ -225,5 +227,12 @@ footer {
   padding-top: 70px;
 }
 .logo .topleft {
-  margin-top: 50px;
+  margin-top: 30px;
+}
+.final {
+  position: relative;
+}
+.info ul li {
+  list-style: none;
+  padding: 10px;
 }
