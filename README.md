@@ -27,6 +27,6 @@ There are currently no known bugs
 
 Copyright (c) 2022 [Click to view License](LICENSE)
 
-## Support and Contac Details
+## Support and Contact Details
 
 Email: robert.gitonga@student.moringaschool.com
