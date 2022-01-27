@@ -38,6 +38,7 @@ span {
 }
 .flex-container li:hover {
   border-bottom: 5px solid orange;
+  position: absolute;
 }
 .narration {
   float: left;
@@ -46,10 +47,13 @@ span {
   margin-left: 5%;
   padding-top: 200px;
 }
-.image {
+.main-container .image {
   height: 300px;
   margin-left: 50px;
   align-content: right;
+  right: 60px;
+  position: absolute;
+  top: 150px;
 }
 .order {
   background: #f6b400;
@@ -73,7 +77,6 @@ span {
 }
 .quality-burgers {
   height: 70%;
-  margin-top: 10%;
   width: 25%;
   border-radius: 15px;
   border: solid black 1px;
