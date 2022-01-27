@@ -1,17 +1,32 @@
-{Burger-Palace}
-{Brief description of application}, {2022}
-By Robert Gitonga
-Description
-{This is a simple landing page for a burger shop.
+# Burger Palace
 
-Setup/Installation Requirements
-First ensure that you have visual studial code or your preffered choice of text editor. You require to have git installed and a browser such as google chrome.
+##### By Robert Gitonga
 
-Known Bugs
-No known bugs for now but its open for debugging
+## Description
 
-Technologies Used
-HTML CSS GIT
+<p>This is a website that shows a landing page for a burger shop. It shows the different types of burgers available and their prices. It also shows the links to company's mobile apps.
 
-Support and contact details
-you can reach me out through my email rgitonga06@gmail.com
+## Setup / Installation
+
+### Requirements
+
+- A computer and a web browser
+- Access to the internet
+- Click on the live link
+
+## Technologies used
+
+- HTML
+- CSS
+
+## Known Bugs
+
+There are currently no known bugs
+
+## Licence
+
+Copyright (c) 2022 [Click to view License](LICENSE)
+
+## Support and Contac Details
+
+Email: robert.gitonga@student.moringaschool.com
