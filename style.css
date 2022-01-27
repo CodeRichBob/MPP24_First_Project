@@ -15,6 +15,11 @@
 .main-container {
   position: relative;
 }
+nav {
+  display: flex;
+  margin-bottom: 25px;
+  justify-content: space-between;
+}
 .logo {
   display: flex;
   align-content: left;
@@ -28,17 +33,16 @@ span {
 .flex-container ul {
   display: flex;
   justify-content: space-around;
-  margin-left: 60%;
+  margin-left: 1%;
 }
-.flex-container li {
-  font-size: 25px;
+.flex-container ul li {
+  font-size: 30px;
   font-weight: bold;
-  padding: 35px;
+  padding: 20px;
   list-style: none;
 }
 .flex-container li:hover {
   border-bottom: 5px solid orange;
-  position: absolute;
 }
 .narration {
   float: left;
@@ -56,7 +60,7 @@ span {
   top: 150px;
 }
 .order {
-  background: #f6b400;
+  background: hsl(44, 100%, 48%);
   font-size: 20px;
   padding: 16px 30px;
   border: none;
@@ -219,4 +223,7 @@ footer {
 .copyright {
   flex: 1;
   padding-top: 70px;
+}
+.logo .topleft {
+  margin-top: 50px;
 }
